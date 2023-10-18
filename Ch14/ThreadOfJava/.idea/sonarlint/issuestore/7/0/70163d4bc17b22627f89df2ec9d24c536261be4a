@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ô³Ë©ÿÿÿÿÿ8§øâ´1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ªøâ´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğ³‹û8ªøâ´1
+\
+java:S1128":Remove this unused import 'java.util.concurrent.Executor'.(÷ı¶Œúÿÿÿÿ8«øâ´1

@@ -1,0 +1,17 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×ˆ‰Õøÿÿÿÿ8ùï­ˆ´1
+R
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8úï­ˆ´1
+{
+java:S2142	"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8úï­ˆ´1
+V
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8úï­ˆ´1
+E	java:S108	")Either remove or fill this block of code.(ä ¹€8úï­ˆ´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’ê‘°ùÿÿÿÿ8Ê°¯ˆ´1
+R
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8‰÷¯ˆ´1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‰÷¯ˆ´1
+V
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8Š÷¯ˆ´1
+E	java:S108")Either remove or fill this block of code.(ä ¹€8Š÷¯ˆ´1
