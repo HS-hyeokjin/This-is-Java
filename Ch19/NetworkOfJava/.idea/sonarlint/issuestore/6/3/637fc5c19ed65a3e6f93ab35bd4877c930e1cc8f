@@ -1,0 +1,9 @@
+
+f
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(Ãİó¿ûÿÿÿÿ8¨¸©Á³1
+a
+java:S2147!"DCombine this catch with the one at line 31, which has the same body.(ï­£Ä8Æã¨Á³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªßµøÿÿÿÿ8Îã¨Á³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑİÃüÿÿÿÿÿ8Ôã¨Á³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Í¢øã8çôªÁ³1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÖúá8²ä­Á³1
