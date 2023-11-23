@@ -1,0 +1,5 @@
+
+u
+java:S1104"SMake flyMode a static final constant or non-public and provide accessors if needed.(Îëÿ÷ıÿÿÿÿ8Ëşë¯³1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€êº¯øÿÿÿÿ8Îşë¯³1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’¿øÿÿÿÿ8øşë¯³1
